@@ -1,4 +1,4 @@
 # Github-Activity
 . . .
-. . .
+. X .
 . . O
